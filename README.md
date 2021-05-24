@@ -21,5 +21,4 @@ engine = pyttsx3.init()
 engine.say("I will speak this text")
 engine.runAndWait()
 
-![FREE audio books stories kids](https://user-images.githubusercontent.com/60054130/119303782-f1e53480-bc83-11eb-93e3-1155097a32c7.png)
 ![maxresdefault](https://user-images.githubusercontent.com/60054130/119303790-f4478e80-bc83-11eb-8f65-a4132613fb83.jpg)
